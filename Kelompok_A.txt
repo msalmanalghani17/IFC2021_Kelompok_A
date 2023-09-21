@@ -3,3 +3,5 @@ Kelompok A
    NPM  : 5520121062
 2. Nama	: Moch Reka Aditya Rizki
    NPM	: 5520121072
+3. Nama : Haikal Salman
+   NPM  : 5520121057
